@@ -133,3 +133,4 @@ console.log(resultado.extensive);   // 29 de abril de 2026
 // Exercício 2
 // O bug era que os IFs eram independentes, então uma clínica de 8km entrava em ids10, ids30 E ids50 ao mesmo tempo
 // Agora com if-else if-else cada clínica vai pra um único array
+//
